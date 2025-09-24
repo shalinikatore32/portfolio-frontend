@@ -11,7 +11,7 @@ const Navbar = () => {
     { name: "About", to: "about", isExternal: false },
     {
       name: "Resume",
-      to: "https://drive.google.com/file/d/13H9sa6raisG3NWYXxUfAwy7tjx65zrih/view?usp=sharing",
+      to: "https://drive.google.com/file/d/1TnF3kRnKHphqtC5o8_0j2e8HgYXyd6Pw/view?usp=drivesdk",
       isExternal: true,
     },
     { name: "Contact", to: "contact", isExternal: false },
